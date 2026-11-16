@@ -1,0 +1,19 @@
+body {
+  background-color:#5bc686;/* warna hijau kebiruan*/
+font-family: arial, sans-serif; /* jenis huruf yang bersih dan mudah dibaca */
+color:#5b0b86; /* warna teks utama (ungu terang)*/
+}
+.karty-proful {
+  width:300px;
+  margin:50px auto; /*50px jarak atas/bawah, auto menengah kiri/kanan*/
+padding: 20px;
+  background-color: white;
+  border-radius: 15px; /* membuat sudut menjadi melengkung */
+  box-shadow: 0 4px 8px rgba (0,0,0,0.1);/* Efek bayangan */
+  text-align: center;/* menengah semua teks di dalam kartu */
+}
+
+ .kartu-profil img {
+   width: 150px;
+   border-radius: 50%; /*trk untuk memebuat garbar persegi menjdai lingkaRAN SEMPURNA */
+ }
